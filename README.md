@@ -18,7 +18,12 @@
 
 <h4 align="left">
      I'm Lily, and I am currently living in Barcelona, Spain. <br>
-     Feel free to send me a message! -> goat#2017
+     I'm a full stack web developer, primarily focusing on Go and JavaScript / React. <br>
+     <br>
+     I also love finding new projects to work on, and I'm always looking for inspiration in my day to day life.
+     <br>
+     <br>
+     <code>Feel free to send me a message! -> goat#2017</code>
 </h4>
 
 <br />
@@ -26,27 +31,19 @@
 
 ### What programming languages am I learning?
 
-<a href="https://www.python.org">
+
+<a href="https://www.go.dev" >
      <img
-          align="left" alt="Kotlin" width="30" height="30"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"
+          align="left" alt="Go" width="50" height="30"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png"
      />
 </a>
-
-<a href="https://go.dev">
-     <img
-         align="left" alt="TypeScript" width="30" height="30" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png" 
-     />
-</a> 
-
-<a href="https://flutter.dev">
+<a href="https://www.javascript.com">
      <img
           align="left" alt="C" width="30" height="30"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/640px-Google-flutter-logo.svg.png"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"
      />
 </a>
-
 
 <br />
 
@@ -61,6 +58,8 @@
 <img align="right"
      src="https://github-readme-stats.vercel.app/api?username=lilylilylily123&border_color=2E343B&bg_color=0D1117&text_color=8B949E&title_color=FFFFFF&show_icons=true&icon_color=8B949E&count_private=true"
 />
+<br>
+[![wakatime](https://wakatime.com/badge/user/85cf453d-67b3-40dc-8831-529f3ceb02dc.svg)](https://wakatime.com/@85cf453d-67b3-40dc-8831-529f3ceb02dc)
 
 ### What IDEs do I use?
 
@@ -70,7 +69,17 @@
          src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg"
      />
 </a>
-
+<a href="https://www.jetbrains.com/webstorm/">
+     <img
+         align="left" height="30"
+         src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg"
+     />
+</a>
+<a href="https://jetbrains.com/goland">
+     <img
+         align="left" height="30"
+         src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand_icon.svg"
+     />
 <br />
 
 <hr>
