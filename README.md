@@ -44,6 +44,12 @@
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"
      />
 </a>
+<a href="https://www.rustlang.com">
+     <img
+          align="left" alt="C" width="30" height="30"
+          src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"
+     />
+</a>
 
 <br />
 
