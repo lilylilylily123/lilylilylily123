@@ -18,7 +18,7 @@
 
 <h4 align="left">
      I'm Lily, and I am currently living in Spain. <br>
-Some projects I'm proud of include: <u>[Upload system](https://github.com/lilylilylily123/enwrap-upload)</u>
+Some projects I'm proud of include: https://github.com/lilylilylily123/enwrap-upload
 
      <br>
      I also love finding new projects to work on, and I'm always looking for inspiration in my day to day life.
