@@ -17,13 +17,14 @@
 <hr>
 
 <h4 align="left">
-     I'm Lily, and I am currently living in Barcelona, Spain. <br>
-     I'm a full stack web developer, primarily focusing on Go and JavaScript / React. <br>
+     I'm Lily, and I am currently living in Spain. <br>
+Some projects I'm proud of include: <span style="color:lightsalmon"><u>[Upload system](https://github.com/lilylilylily123/enwrap-upload)</u></span>
+
      <br>
      I also love finding new projects to work on, and I'm always looking for inspiration in my day to day life.
      <br>
      <br>
-     <code>Feel free to send me a message! -> goat#2017</code>
+     <code>Feel free to send me a message! -> goat2017</code>
 </h4>
 
 <br />
